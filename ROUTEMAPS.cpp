@@ -6,6 +6,7 @@
 using namespace std;
 
 int main() {
+	//
 	typedef std::vector<Location> MyLocations;
 	typedef std::vector<Road> MyRoads;
 	typedef std::vector<Route> MyRoutes;
